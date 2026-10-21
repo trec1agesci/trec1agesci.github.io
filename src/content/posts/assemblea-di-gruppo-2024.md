@@ -26,4 +26,4 @@ per discutere e deliberare sul seguente ordine del giorno
 
 9. varie ed eventuali
 
-[modello d bilancio 23-24](/wp-content/uploads/2024/12/modello-d-bilancio-23-24.pdf)[Download](/wp-content/uploads/2024/12/modello-d-bilancio-23-24.pdf)
+[Modello di bilancio 23-24 e altri documenti](https://drive.google.com/drive/folders/0Bzb7ZDksNGQpRV84cEhYNXlTU2c?resourcekey=0-9u8mKNBGINNYoTXPCDzm3A&usp=drive_link)
