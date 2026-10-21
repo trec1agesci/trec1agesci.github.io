@@ -1,0 +1,25 @@
+---
+import Pagination from '../../components/Pagination.astro';
+import PostList from '../../components/PostList.astro';
+import { SITE_TITLE } from '../../consts';
+import Layout from '../../layouts/Layout.astro';
+import { getPosts, pageNumbers, paginate } from '../../lib/posts';
+
+export async function getStaticPaths() {
+	const posts = await getPosts();
+	const { totalPages } = paginate(posts, 1);
+	return pageNumbers(totalPages).map((n) => ({
+		params: { page: String(n) },
+		props: paginate(posts, n),
+	}));
+}
+
+const { items, page, totalPages } = Astro.props;
+---
+
+<Layout title={`Pagina ${page}`}>
+	<h1>{SITE_TITLE}</h1>
+	<p class="meta">Pagina {page} di {totalPages}</p>
+	<PostList posts={items} />
+	<Pagination base="/" page={page} totalPages={totalPages} />
+</Layout>

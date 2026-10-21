@@ -1,0 +1,12 @@
+/author/*                   /             301
+/login-page/                /iscrizione/  301
+/pagina-registrazione/      /iscrizione/  301
+/profilo-personale/         /iscrizione/  301
+/password/                  /iscrizione/  301
+/pdf-page/                  /iscrizione/  301
+/inserimento-lista-dattesa/ /iscrizione/  301
+/sitemap_index.xml          /sitemap-index.xml 301
+/post-sitemap.xml           /sitemap-index.xml 301
+/page-sitemap.xml           /sitemap-index.xml 301
+/category-sitemap.xml       /sitemap-index.xml 301
+/author-sitemap.xml         /sitemap-index.xml 301

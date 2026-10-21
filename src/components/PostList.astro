@@ -1,0 +1,25 @@
+---
+import { formatDate, postUrl, type Post } from '../lib/posts';
+
+interface Props {
+	posts: Post[];
+}
+
+const { posts } = Astro.props;
+---
+
+{
+	posts.map((post) => (
+		<article class="post-card">
+			{post.data.coverImage && <img src={post.data.coverImage} alt="" loading="lazy" />}
+			<div>
+				<h2>
+					<a href={postUrl(post)}>{post.data.title}</a>
+				</h2>
+				<p class="meta">
+					<time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+				</p>
+			</div>
+		</article>
+	))
+}

@@ -1,0 +1,27 @@
+---
+import Pagination from '../../components/Pagination.astro';
+import PostList from '../../components/PostList.astro';
+import { CATEGORIES } from '../../consts';
+import Layout from '../../layouts/Layout.astro';
+import { categoryUrl, getPosts, pageNumbers, paginate, postsInCategory } from '../../lib/posts';
+
+export async function getStaticPaths() {
+	const posts = await getPosts();
+	return CATEGORIES.flatMap((category) => {
+		const inCategory = postsInCategory(posts, category.slug);
+		const { totalPages } = paginate(inCategory, 1);
+		return [1, ...pageNumbers(totalPages)].map((n) => ({
+			params: { slug: n === 1 ? category.path : `${category.path}/page/${n}` },
+			props: { category, ...paginate(inCategory, n) },
+		}));
+	});
+}
+
+const { category, items, page, totalPages } = Astro.props;
+---
+
+<Layout title={page > 1 ? `${category.label} – pagina ${page}` : category.label}>
+	<h1>{category.label}</h1>
+	<PostList posts={items} />
+	<Pagination base={categoryUrl(category.path)} page={page} totalPages={totalPages} />
+</Layout>

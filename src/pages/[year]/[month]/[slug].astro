@@ -1,0 +1,70 @@
+---
+import { render } from 'astro:content';
+import { LOGO_PATH, SITE_TITLE } from '../../../consts';
+import Layout from '../../../layouts/Layout.astro';
+import {
+	categoryOf,
+	categoryUrl,
+	excerpt,
+	formatDate,
+	getPosts,
+	postMonth,
+	postUrl,
+	postYear,
+} from '../../../lib/posts';
+
+export async function getStaticPaths() {
+	const posts = await getPosts();
+	return posts.map((post) => ({
+		params: { year: postYear(post), month: postMonth(post), slug: post.id },
+		props: { post },
+	}));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const description = excerpt(post);
+const image = post.data.coverImage ?? LOGO_PATH;
+const url = new URL(postUrl(post), Astro.site).href;
+
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'BlogPosting',
+	headline: post.data.title,
+	description,
+	datePublished: post.data.date.toISOString(),
+	image: new URL(image, Astro.site).href,
+	mainEntityOfPage: url,
+	author: { '@type': 'Organization', name: SITE_TITLE },
+	publisher: {
+		'@type': 'Organization',
+		name: SITE_TITLE,
+		logo: { '@type': 'ImageObject', url: new URL(LOGO_PATH, Astro.site).href },
+	},
+};
+---
+
+<Layout
+	title={post.data.title}
+	description={description}
+	image={image}
+	type="article"
+	published={post.data.date}
+	jsonLd={jsonLd}
+>
+	<article>
+		<h1>{post.data.title}</h1>
+		<p class="meta">
+			<time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+			{
+				post.data.categories.map((slug) => {
+					const c = categoryOf(slug);
+					return c && <a href={categoryUrl(c.path)}>{c.label}</a>;
+				})
+			}
+		</p>
+		<div class="prose">
+			<Content />
+		</div>
+	</article>
+</Layout>

@@ -1,0 +1,28 @@
+---
+import Pagination from '../components/Pagination.astro';
+import PostList from '../components/PostList.astro';
+import { CATEGORIES, LOGO_PATH, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import Layout from '../layouts/Layout.astro';
+import { categoryUrl, getPosts, paginate } from '../lib/posts';
+
+const { items, page, totalPages } = paginate(await getPosts(), 1);
+
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'Organization',
+	name: SITE_TITLE,
+	description: SITE_DESCRIPTION,
+	url: new URL('/', Astro.site).href,
+	logo: new URL(LOGO_PATH, Astro.site).href,
+};
+---
+
+<Layout title={SITE_TITLE} jsonLd={jsonLd}>
+	<h1>{SITE_TITLE}</h1>
+	<p class="meta">{SITE_DESCRIPTION}</p>
+	<p class="cats">
+		{CATEGORIES.map((c) => <a href={categoryUrl(c.path)}>{c.label}</a>)}
+	</p>
+	<PostList posts={items} />
+	<Pagination base="/" page={page} totalPages={totalPages} />
+</Layout>

@@ -1,0 +1,18 @@
+# build output
+dist/
+.astro/
+node_modules/
+
+# logs
+npm-debug.log*
+
+# env
+.env
+.env.production
+
+# sorgenti della migrazione (l'XML contiene dati personali)
+export/
+output/
+
+.DS_Store
+.idea/
