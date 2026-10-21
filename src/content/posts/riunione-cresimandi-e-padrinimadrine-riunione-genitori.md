@@ -1,0 +1,14 @@
+---
+title: "RIUNIONE CRESIMANDI E PADRINI/MADRINE & RIUNIONE GENITORI"
+date: "2017-03-22T17:07:18.000Z"
+categories:
+  - "news"
+  - "reparto"
+coverImage: "/wp-content/uploads/2017/01/eg.png"
+---
+
+> ###### E quest’educazione e personalità dipendono in larghissima misura da noi. Molti di noi sono consci della nostra responsabilità in questo campo, e al tempo stesso del fatto che manchiamo di risorse. Non abbiamo nessun addestramento specifico come educatori, abbiamo poco tempo libero, non possiamo permetterci spese scolastiche elevate. Eppure queste temporanee incapacità da parte nostra rischiano di mettere a repentaglio il futuro dei nostri figli. Li mandiamo alle scuole migliori che possiamo permetterci, ma la formazione scolastica dà loro tante ore di leggere, scrivere e far di conto, e ciò non basta per assicurare la riuscita nella carriera di un uomo. Guardate ai molti uomini famosi che si sono fatti dal nulla. Non è stato il «leggere, scrivere e far di conto» che ha fatto far loro strada. E allora, cos’è stato? È stato il loro carattere. Come possiamo ottenere la formazione del carattere? Gli esperti più autorevoli ci dicono che il carattere non è cosa che possa insegnarsi a una classe in una scuola. Il Movimento scout è stato espressamente concepito in modo da venir incontro a questa esigenza, e nei dodici anni della sua vita ha dimostrato la sua capacità di agganciare il ragazzo e, tramite attività che lo attirano, farlo crescere in quattro aree principali: carattere e intelligenza salute e sviluppo fisico abilità manuale e hobbies servizio disinteressato per gli altri. Un ragazzo, a seconda della sua età, tra gli 8 e i 18 anni, entra in una delle tre branche del Movimento, la branca cadetta (i Lupetti), quella di mezzo (gli Esploratori), quella degli anziani (i Rovers). Egli vi trova una sana compagnia e sane attività, sotto il controllo personale del Capo, cosicché il suo carattere si sviluppa nel senso giusto per il suo bene e, ciò che più conta, anche per quello di tutta la comunità.
+
+22/03/2017 Cari Genitori, Vi informiamo che i sacrementi per i nostri ragazzi si terranno sabato 20 maggio ore 16:30 e che giorno sabato 22 Aprile 2017 alle ore 15:30, faremo una riunione con i ragazzi/e che prenderanno i sacramenti e i corrispettivi padrini e madrine. È necessario far pervenire il certificato di battesimo di cresimandi e rispettivi padrini o madrine, e quest’ultimi anche il certificato di cresima che ne certifica l'idoneità.
+
+A seguire alle ore 16:30 avremmo il piacere di fare una riunione con TUTTI voi genitori dove parleremo: Prime notizie sul campo Estivo La metodologia del reparto e la sua importanza Ci teniamo alla presenza di TUTTI voi genitori. Per qualsiasi dubbio o informazione non esitate a chiamarci. Lo staff E/G Claudio Ginaprelli Chiara La Spina Gianmarco Marletta Erika Spidalieri Giovanni Lombardo Claudio Faro
