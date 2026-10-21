@@ -15,6 +15,7 @@ interface Props {
 	type?: 'website' | 'article';
 	published?: Date;
 	jsonLd?: Record<string, unknown>;
+	noindex?: boolean;
 }
 
 const {
@@ -24,6 +25,7 @@ const {
 	type = 'website',
 	published,
 	jsonLd,
+	noindex = false,
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site);
@@ -41,7 +43,7 @@ const isActive = (href: string) => (href === '/' ? path === '/' : path.startsWit
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<title>{fullTitle}</title>
 		<meta name="description" content={description} />
-		<link rel="canonical" href={canonical} />
+		{noindex ? <meta name="robots" content="noindex" /> : <link rel="canonical" href={canonical} />}
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
 		<link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href="/feed/" />
@@ -119,13 +121,16 @@ const isActive = (href: string) => (href === '/' ? path === '/' : path.startsWit
 		color: var(--green-dark);
 	}
 	img,
-	iframe,
 	video {
 		max-width: 100%;
 		height: auto;
 	}
 	iframe {
+		max-width: 100%;
 		border: 0;
+	}
+	.prose {
+		overflow-x: auto;
 	}
 	.wrap {
 		width: 100%;

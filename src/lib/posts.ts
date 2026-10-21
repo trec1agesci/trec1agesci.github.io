@@ -26,8 +26,13 @@ export async function getPosts(): Promise<Post[]> {
 	return posts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 }
 
-export const postsInCategory = (posts: Post[], slug: string) =>
-	posts.filter((p) => p.data.categories.includes(slug));
+export function postsInCategory(posts: Post[], slug: string) {
+	const parent = categoryOf(slug);
+	const slugs = CATEGORIES.filter((c) => parent && c.path.startsWith(`${parent.path}/`)).map(
+		(c) => c.slug,
+	);
+	return posts.filter((p) => [slug, ...slugs].some((s) => p.data.categories.includes(s)));
+}
 
 export const categoryUrl = (path: string) => `/category/${path}/`;
 
@@ -47,7 +52,8 @@ export function excerpt(post: Post, max = 160) {
 		.replace(/<[^>]*>/g, ' ')
 		.replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
 		.replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
-		.replace(/[\\*_#>`]/g, '')
+		.replace(/&(?:[a-z]+|#\d+);/gi, ' ')
+		.replace(/[\\*#>`|]/g, '')
 		.replace(/\s+/g, ' ')
 		.trim();
 	if (text.length <= max) return text;
