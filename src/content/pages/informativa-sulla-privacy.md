@@ -3,6 +3,8 @@ title: "Informativa sulla privacy"
 date: "2024-10-02T14:43:24.000Z"
 ---
 
+> **Nota del Gruppo.** Il testo che segue è l’informativa AGESCI per i soci. Per i dati trattati attraverso questo sito (dati di navigazione, statistiche, contenuti di terze parti, modulo della lista d’attesa su Google Forms e fornitori coinvolti) vale la [Privacy policy del sito](/privacy/).
+
 **Oggetto: Informativa ai sensi dell’art. 13 del Regolamento Europeo n. 2016/679**
 
 Questa informativa viene fornita ai sensi dell’art. 13 del Regolamento Europeo 2016/679 (di seguito GDPR), in materia di “trattamento dei dati personali”. Secondo quanto previsto dal GDPR, i trattamenti di dati personali saranno effettuati in modo lecito, corretto e trasparente nei confronti dell’interessato.

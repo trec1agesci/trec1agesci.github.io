@@ -3,197 +3,130 @@ title: "Privacy"
 date: "2019-10-15T10:37:01.000Z"
 ---
 
-**  
-  
-I - INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO**
+## I - Informazioni relative alla privacy policy del sito
 
-  
-1\. In questa sezione sono contenute le informazioni relative alle modalità di gestione di AGESCI Trecastagni 1 in riferimento al trattamento dei dati degli utenti di AGESCI Trecastagni 1.
+1. In questa sezione sono contenute le informazioni sulle modalità di gestione del sito di AGESCI Trecastagni 1 in riferimento al trattamento dei dati degli utenti.
 
-2\. La presente informativa ha valore anche ai fini dell'articolo 13 del Regolamento UE n. 2016/679, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali nonché alla libera circolazione di tali dati, per i soggetti che interagiscono con AGESCI Trecastagni 1 ed è raggiungibile all'indirizzo corrispondente alla pagina iniziale:
+2. La presente informativa ha valore anche ai fini dell'articolo 13 del Regolamento UE n. 2016/679 (GDPR), relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, per i soggetti che interagiscono con il sito, raggiungibile all'indirizzo [https://www.trecastagni1.it](https://www.trecastagni1.it).
 
-[https://www.trecastagni1.it](https://www.trecastagni1.it)
+3. L'informativa è resa solo per il sito di AGESCI Trecastagni 1 e non per altri siti web eventualmente consultati dall'utente tramite i link in esso contenuti.
 
-3\. L'informativa è resa solo per AGESCI Trecastagni 1 e non anche per altri siti web eventualmente consultati dall'utente tramite link in esso contenuti.
+4. L'informativa può subire modifiche, per esempio a seguito di nuove norme o di cambiamenti dei servizi usati dal sito: si invita l'utente a controllare periodicamente questa pagina.
 
-4\. Scopo del presente documento è fornire indicazioni circa le modalità, i tempi e la natura delle informazioni che i titolari del trattamento devono fornire agli utenti al momento della connessione alle pagine web di AGESCI Trecastagni 1, indipendentemente dagli scopi del collegamento stesso, secondo la legislazione Italiana ed Europea.
+5. Se l'utente ha meno di 14 anni, ai sensi dell'art. 8, c. 1 del Regolamento UE 2016/679 e dell'art. 2-quinquies del D.Lgs. 196/2003, deve legittimare il proprio consenso attraverso l'autorizzazione dei genitori o di chi ne fa le veci.
 
-5\. L'informativa può subire modifiche a causa dell'introduzione di nuove norme al riguardo, si invita pertanto l'utente a controllare periodicamente la presente pagina.
+## II - Trattamento dei dati
 
-6\. Se l'utente ha meno di 14 anni, ai sensi dell'art.8, c.1 regolamento UE 2016/679, e dell'Art. 2 - Quinquies del D.Lgs 196/2003, così come modificato dal D.Lgs 181/18, dovrà legittimare il suo consenso attraverso l'autorizzazione dei genitori o di chi ne fa le veci.
+### 1 - Titolare del trattamento
 
-**  
-  
-II - TRATTAMENTO DEI DATI**
+1. Il titolare del trattamento è la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali.
 
-**  
-1 - Titolare dei Dati**
+2. Relativamente al presente sito web il titolare del trattamento è il Gruppo AGESCI Trecastagni 1, nella persona del suo rappresentante legale Lorenzo La Placa. Per ogni chiarimento o per l'esercizio dei diritti l'utente può scrivere a: lorenzo.laplaca@gmail.com.
 
-1\. Il titolare del trattamento è la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali. Si occupa anche dei profili sulla sicurezza.
+### 2 - Responsabile del trattamento
 
-2\. Relativamente al presente sito web il titolare del trattamento è: Claudio Faro, e per ogni chiarimento o esercizio dei diritti dell'utente potrà contattarlo al seguente indirizzo mail: faroclaudio@gmail.com.
+1. Il responsabile del trattamento è la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che tratta dati personali per conto del titolare.
 
-**  
-2 - Responsabile del trattamento dati**
+2. Ai sensi dell'art. 28 del Regolamento UE n. 2016/679, su nomina del titolare, il responsabile del trattamento dei dati del sito è: Claudio Faro.
 
-1\. Il responsabile del trattamento è la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che tratta dati personali per conto del titolare del trattamento.
+### 3 - Fornitori di servizi
 
-2\. Ai sensi dell'articolo 28 del regolamento UE n. 2016/679, su nomina del titolare del dati, il responsabile del trattamento dei dati del sito AGESCI Trecastagni 1 è: Claudio Faro.
+Per il funzionamento del sito il titolare si avvale dei seguenti fornitori, che possono trattare dati personali degli utenti per conto del titolare o come titolari autonomi, secondo le proprie informative:
 
-**  
-3 - Luogo trattamento dati**
+- **Cloudflare, Inc.** – hosting delle pagine, rete di distribuzione dei contenuti (CDN), DNS e statistiche aggregate (Cloudflare Web Analytics). [Informativa](https://www.cloudflare.com/privacypolicy/).
+- **Google LLC** – Google Forms (modulo per la lista d'attesa), Google Calendar (calendario degli eventi), Google Drive (cartella dei documenti) e video YouTube incorporati. [Informativa](https://policies.google.com/privacy).
+- **Vimeo, Inc.** – video incorporati nella pagina Media. [Informativa](https://vimeo.com/privacy).
 
-1\. Il trattamento dei dati generato dall'utilizzo di AGESCI Trecastagni 1 avviene presso Piazza s. Alfio 1.
+Il codice e i contenuti del sito sono conservati in un repository su GitHub e non comprendono dati personali raccolti dagli utenti.
 
-2\. In caso di necessità, i dati connessi al servizio newsletter possono essere trattati dal responsabile del trattamento o soggetti da esso incaricati a tal fine presso la relativa sede.
+I fornitori sopra indicati hanno sede negli Stati Uniti. Il trasferimento dei dati verso Paesi extra-UE avviene sulla base degli strumenti previsti dal GDPR adottati da ciascun fornitore (decisione di adeguatezza della Commissione europea, ove il fornitore aderisca al Data Privacy Framework, oppure clausole contrattuali standard), come descritto nelle rispettive informative.
 
-**  
-  
-III** _**-**_ **COOKIES**
+## III - Cookie e tecnologie simili
 
-**  
-1 - Tipo di Cookies**
+### 1 - Cookie del sito
 
-1\. Il sito AGESCI Trecastagni 1 utilizza cookies per rendere l'esperienza di navigazione dell'utente più facile ed intuitiva: i cookies sono piccole stringhe di testo utilizzate per memorizzare alcune informazioni che possono riguardare l'utente, le sue preferenze o il dispositivo di accesso a Internet (computer, tablet o cellulare) e vengono utilizzate principalmente per adeguare il funzionamento del sito alle aspettative dell'utente, offrendo un'esperienza di navigazione più personalizzata e memorizzando le scelte effettuate in precedenza.
+1. Il sito è composto da pagine statiche: non prevede registrazione, login né area riservata e non utilizza cookie propri per la navigazione.
 
-2\. Un cookie consiste in un ridotto insieme di dati trasferiti al browser dell'utente da un server web e può essere letto unicamente dal server che ha effettuato il trasferimento. Non si tratta di codice eseguibile e non trasmette virus.
+2. Le statistiche di visita sono rilevate con Cloudflare Web Analytics, che misura in forma aggregata le visite senza usare cookie e senza creare profili degli utenti o seguirli su altri siti.
 
-3\. I cookies non registrano alcuna informazione personale e gli eventuali dati identificabili non verranno memorizzati. Se si desidera, è possibile impedire il salvataggio di alcuni o tutti i cookie. Tuttavia, in questo caso l'utilizzo del sito e dei servizi offerti potrebbe risultarne compromesso. Per procedere senza modificare le opzioni relative ai cookies è sufficiente continuare con la navigazione.
+### 2 - Contenuti di terze parti incorporati
 
-Di seguito le tipologie di cookies di cui il sito fa uso:
+1. Alcune pagine incorporano contenuti ospitati da terzi: i video di YouTube (Google) e di Vimeo, nella pagina Media e in alcuni articoli, e il calendario di Google Calendar nella pagina Calendario.
 
-**  
-2 - Cookies tecnici**
+2. Quando la pagina è caricata, il fornitore del contenuto può ricevere l'indirizzo IP dell'utente e informazioni sul dispositivo e impostare propri cookie, anche di profilazione, che il titolare non controlla. L'uso di questi cookie è regolato dalle informative dei fornitori indicate sopra.
 
-1\. Ci sono numerose tecnologie usate per conservare informazioni nel computer dell'utente, che poi vengono raccolte dai siti. Tra queste la più conosciuta e utilizzata è quella dei cookies HTML. Essi servono per la navigazione e per facilitare l'accesso e la fruizione del sito da parte dell'utente. Sono necessari alla trasmissione di comunicazioni su rete elettronica ovvero al fornitore per erogare il servizio richiesto dal cliente.
+3. L'utente può gestire o cancellare i cookie dalle impostazioni del proprio browser; la disattivazione può impedire la visualizzazione di alcuni contenuti incorporati.
 
-2\. Le impostazioni per gestire o disattivare i cookies possono variare a seconda del browser internet utilizzato. Ad ogni modo, l'utente può gestire o richiedere la disattivazione generale o la cancellazione dei cookies, modificando le impostazioni del proprio browser internet. Tale disattivazione può rallentare o impedire l'accesso ad alcune parti del sito.
+### 3 - Supporto nella configurazione del proprio browser
 
-3\. L'uso di cookies tecnici consente la fruizione sicura ed efficiente del sito.
+Per ulteriori informazioni e supporto è possibile visitare la pagina di aiuto specifica del browser in uso:
 
-4\. I cookies che vengono inseriti nel browser e ritrasmessi mediante Google Analytics o tramite il servizio statistiche di blogger o similari sono tecnici solo se utilizzati a fini di ottimizzazione del sito direttamente dal titolare del sito stesso, che potrà raccogliere informazioni in forma aggregata sul numero degli utenti e su come questi visitano il sito. A queste condizioni, per i cookies analytics valgono le stesse regole, in tema di informativa e consenso, previste per i cookies tecnici.
+- Firefox: https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences
+- Safari: https://www.apple.com/legal/privacy/it/
+- Chrome: https://support.google.com/accounts/answer/61416?hl=it
 
-5\. Dal punto di vista della durata si possono distinguere cookies temporanei di sessione che si cancellano automaticamente al termine della sessione di navigazione e servono per identificare l'utente e quindi evitare il login ad ogni pagina visitata e quelli permanenti che restano attivi nel pc fino a scadenza o cancellazione da parte dell'utente.
+## IV - Dati trattati
 
-6\. Potranno essere installati cookies di sessione al fine di consentire l'accesso e la permanenza nell'area riservata del portale come utente autenticato.
+### 1 - Dati di navigazione
 
-7\. Essi non vengono memorizzati in modo persistente ma esclusivamente per la durata della navigazione fino alla chiusura del browser e svaniscono con la chiusura dello stesso. Il loro uso è strettamente limitato alla trasmissione di identificativi di sessione costituiti da numeri casuali generati dal server necessari per consentire l'esplorazione sicura ed efficiente del sito.
+1. Come tutti i siti web, anche questo è servito attraverso sistemi che registrano automaticamente alcune informazioni sulle visite: indirizzo IP, tipo di browser e parametri del dispositivo, data e orario di visita, pagina visitata e di provenienza.
 
-**  
-3 - Cookies di terze parti**
+2. Queste informazioni sono trattate da Cloudflare, in qualità di fornitore del servizio di hosting, in forma automatizzata e solo per verificare il corretto funzionamento del sito e per motivi di sicurezza (per esempio, bloccare attività dannose). Il trattamento si basa sul legittimo interesse del titolare. Tali dati non sono utilizzati per identificare o profilare l'utente.
 
-1\. In relazione alla provenienza si distinguono i cookies inviati al browser direttamente dal sito che si sta visitando e quelli di terze parti inviati al computer da altri siti e non da quello che si sta visitando.
+### 2 - Lista d'attesa (modulo Iscrizione)
 
-2\. I cookies permanenti sono spesso cookies di terze parti.
+1. La richiesta di ingresso nel gruppo avviene attraverso un modulo Google Forms collegato dalla pagina Iscrizione. Il modulo richiede i dati strettamente necessari a gestire la lista d'attesa e a contattare la famiglia: nominativo, recapiti, data di nascita e classe frequentata.
 
-3\. La maggior parte dei cookies di terze parti è costituita da cookies di tracciamento usati per individuare il comportamento online, capire gli interessi e quindi personalizzare le proposte pubblicitarie per gli utenti.
+2. I dati sono trattati per rispondere alla richiesta dell'interessato e gestire l'ordine di chiamata dalla lista d'attesa (art. 6, par. 1, lett. b) GDPR). Il conferimento è facoltativo, ma senza di essi non è possibile inserire la richiesta.
 
-4\. Potranno essere installati cookies di terze parti analitici. Essi sono inviati da domini di predette terze parti esterni al sito.
+3. I dati sono archiviati nell'account Google del gruppo e possono essere consultati solo dai capi incaricati. Le richieste non soddisfatte restano in lista per gli anni scout successivi, come indicato nella pagina Iscrizione. I dati sono conservati fino al primo di questi eventi:
 
-5\. I cookies analitici di terze parti sono impiegati per rilevare informazioni sul comportamento degli utenti su AGESCI Trecastagni 1. La rilevazione avviene in forma anonima, al fine di monitorare le prestazioni e migliorare l'usabilità del sito. I cookies di profilazione di terze parti sono utilizzati per creare profili relativi agli utenti, al fine di proporre messaggi pubblicitari in linea con le scelte manifestate dagli utenti medesimi.
+- l'inserimento del ragazzo nel gruppo: da quel momento i dati sono trattati secondo l'informativa AGESCI per i soci e quelli raccolti con il modulo di lista d'attesa non necessari all'iscrizione sono cancellati;
+- la rinuncia o il rifiuto del posto da parte dell'interessato o della sua famiglia;
+- il compimento dei 21 anni del ragazzo.
 
-6\. L'utilizzo di questi cookies è disciplinato dalle regole predisposte dalle terze parti medesime, pertanto, si invitano gli utenti a prendere visione delle informative privacy e delle indicazioni per gestire o disabilitare i cookies pubblicate nelle relative pagine web.
+Resta ferma la possibilità di chiedere la cancellazione in qualsiasi momento.
 
-**  
-  
-IV - DATI TRATTATI**
+4. Si chiede di non inserire nel modulo dati relativi alla salute o altre categorie particolari di dati (art. 9 GDPR): questi dati non sono necessari per la lista d'attesa.
 
-**  
-1 - Modalità trattamento dati**
+### 3 - Altri dati forniti dall'utente
 
-1\. Come tutti i siti web anche il presente sito fa uso di log files nei quali vengono conservate informazioni raccolte in maniera automatizzata durante le visite degli utenti. Le informazioni raccolte potrebbero essere le seguenti:
+1. L'invio facoltativo, esplicito e volontario di posta elettronica agli indirizzi indicati comporta l'acquisizione dell'indirizzo del mittente, necessario per rispondere, e degli eventuali altri dati inseriti nel messaggio.
 
-\- indirizzo internet protocol (IP);  
-\- tipo di browser e parametri del dispositivo usato per connettersi al sito;  
-\- nome dell'internet service provider (ISP);  
-\- data e orario di visita;  
-\- pagina web di provenienza del visitatore (referral) e di uscita;  
-\- eventualmente il numero di click.
+2. Il sito non consente commenti, registrazioni o invio di curriculum.
 
-2\. Le suddette informazioni sono trattate in forma automatizzata e raccolte in forma esclusivamente aggregata al fine di verificare il corretto funzionamento del sito, e per motivi di sicurezza. Tali informazioni saranno trattate in base ai legittimi interessi del titolare.
+### 4 - Calendario e documenti
 
-3\. A fini di sicurezza (filtri antispam, firewall, rilevazione virus), i dati registrati automaticamente possono eventualmente comprendere anche dati personali come l'indirizzo Ip, che potrebbe essere utilizzato, conformemente alle leggi vigenti in materia, al fine di bloccare tentativi di danneggiamento al sito medesimo o di recare danno ad altri utenti, o comunque attività dannose o costituenti reato. Tali dati non sono mai utilizzati per l'identificazione o la profilazione dell'utente, ma solo a fini di tutela del sito e dei suoi utenti, tali informazioni saranno trattate in base ai legittimi interessi del titolare.
+Il calendario mostra solo gli eventi pubblici del gruppo. I documenti sono consultabili in una cartella Google Drive collegata dal sito: l'accesso e il trattamento dei dati in quella cartella sono gestiti da Google.
 
-4\. Qualora il sito consenta l'inserimento di commenti, oppure in caso di specifici servizi richiesti dall'utente, ivi compresi la possibilità di inviare il Curriculum Vitae per un eventuale rapporto lavorativo, il sito rileva automaticamente e registra alcuni dati identificativi dell'utente, compreso l'indirizzo mail. Tali dati si intendono volontariamente forniti dall'utente al momento della richiesta di erogazione del servizio. Inserendo un commento o altra informazione l'utente accetta espressamente l'informativa privacy, e in particolare acconsente che i contenuti inseriti siano liberamente diffusi anche a terzi. I dati ricevuti verranno utilizzati esclusivamente per l'erogazione del servizio richiesto e per il solo tempo necessario per la fornitura del servizio.
+### 5 - Finalità e conservazione
 
-5\. Le informazioni che gli utenti del sito riterranno di rendere pubbliche tramite i servizi e gli strumenti messi a disposizione degli stessi, sono fornite dall'utente consapevolmente e volontariamente, esentando il presente sito da qualsiasi responsabilità in merito ad eventuali violazioni delle leggi. Spetta all'utente verificare di avere i permessi per l'immissione di dati personali di terzi o di contenuti tutelati dalle norme nazionali ed internazionali.
+I dati sono utilizzati esclusivamente per le finalità sopra indicate e conservati per il tempo strettamente necessario a svolgerle. I dati usati a fini di sicurezza sono conservati per il tempo strettamente necessario al raggiungimento di tale fine.
 
-**  
-2 - Finalità del trattamento dati**
+## V - Diritti dell'utente
 
-1\. I dati raccolti dal sito durante il suo funzionamento sono utilizzati esclusivamente per le finalità sopra indicate e conservati per il tempo strettamente necessario a svolgere le attività precisate, e comunque non oltre 10 anni.
+1. Gli artt. 15 e seguenti del Regolamento UE 2016/679 riconoscono all'utente i seguenti diritti:
 
-2\. I dati utilizzati a fini di sicurezza (blocco tentativi di danneggiamento del sito) sono conservati per il tempo strettamente necessario al raggiungimento del fine anteriormente indicato.
+- chiedere al titolare l'accesso ai dati personali (art. 15), la rettifica (art. 16), la cancellazione (art. 17) o la limitazione del trattamento (art. 18);
+- opporsi al trattamento per motivi legati alla propria situazione particolare (art. 21);
+- ricevere i dati in un formato strutturato e leggibile da dispositivo automatico e trasmetterli ad altro titolare (art. 20).
 
-**  
-3 - Dati forniti dall'utente**
+2. Le richieste possono essere rivolte al titolare del trattamento, senza formalità, scrivendo a lorenzo.laplaca@gmail.com, oppure usando il modello messo a disposizione dal Garante per la protezione dei dati personali.
 
-1\. Come sopra indicato, l'invio facoltativo, esplicito e volontario di posta elettronica agli indirizzi indicati su questo sito comporta la successiva acquisizione dell'indirizzo del mittente, necessario per rispondere alle richieste, nonché degli eventuali altri dati personali inseriti nella missiva.
+3. Quando il trattamento si basa sul consenso, l'utente può revocarlo in qualsiasi momento, senza pregiudicare la liceità del trattamento basata sul consenso prestato prima della revoca.
 
-2\. Specifiche informative di sintesi verranno progressivamente riportate o visualizzate nelle pagine del sito predisposte per particolari servizi a richiesta.
+4. In caso di violazione della normativa, l'utente ha il diritto di proporre reclamo al Garante per la protezione dei dati personali ([www.garanteprivacy.it](https://www.garanteprivacy.it)).
 
-**  
-4 - Supporto nella configurazione del proprio browser**
+## VI - Sicurezza dei dati forniti
 
-1\. L'utente puì gestire i cookie anche attraverso le impostazioni del suo browser. Tuttavia, cancellando i cookies dal browser potrebbe rimuovere le preferenze che ha impostato per il sito.
+1. Il sito adotta misure di sicurezza adeguate a impedire accessi non autorizzati, divulgazione, modifica o distruzione non autorizzata dei dati. Il trattamento è effettuato con strumenti informatici e telematici, con modalità strettamente correlate alle finalità indicate.
 
-2\. Per ulteriori informazioni e supporto è possibile anche visitare la pagina di aiuto specifica del web browser che si sta utilizzando:
+2. Oltre al titolare, possono avere accesso ai dati i capi incaricati dell'organizzazione del gruppo e i fornitori di servizi tecnici indicati nella sezione II.
 
-  
-\- Internet Explorer: http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies
+## VII - Modifiche al presente documento
 
-\- Firefox: https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences
+1. Il presente documento, pubblicato all'indirizzo [https://www.trecastagni1.it/privacy/](https://www.trecastagni1.it/privacy/), costituisce la privacy policy di questo sito.
 
-\- Safari: http://www.apple.com/legal/privacy/it/
+2. Esso può essere soggetto a modifiche o aggiornamenti. Si invitano gli utenti a consultare periodicamente questa pagina.
 
-\- Chrome: https://support.google.com/accounts/answer/61416?hl=it
-
-\- Opera: http://www.opera.com/help/tutorials/security/cookies/
-
-**  
-  
-V. DIRITTI DELL'UTENTE**
-
-  
-1\. L'art. 13, c. 2 del Regolamento UE 2016/679 elenca i diritti dell'utente.
-
-2\. Il sito AGESCI Trecastagni 1 intende pertanto informare l'utente sull'esistenza:
-
-– del diritto dell'interessato di chiedere al titolare l'accesso ai dati personali (art. 15 Regolamento UE), il loro aggiornamento (art. 7, co. 3, lett. a) D.Lgs. 196/2003), la rettifica (art. 16 Regolamento UE), l'integrazione (art. 7, co. 3, lett. a) D.Lgs. 196/2003) o la limitazione del trattamento che lo riguardino (art. 18 Regolamento UE) o di opporsi, per motivi legittimi, al loro trattamento (art. 21 Regolamento UE), oltre al diritto alla portabilità dei dati (art. 20 Regolamento UE);
-
-\- del diritto di chiedere la cancellazione (art. 17 Regolamento UE), la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, compresi quelli di cui non è necessaria la conservazione in relazione agli scopi per i quali i dati sono stati raccolti o successivamente trattati (art. 7, co. 3, lett. b) D.Lgs. 196/2003);
-
-– del diritto di ottenere l'attestazione che le operazioni di aggiornamento, rettificazione, integrazione dei dati, cancellazione, blocco dei dati, trasformazione sono state portate a conoscenza, anche per quanto riguarda il loro contenuto, di coloro ai quali i dati sono stati comunicati o diffusi, eccettuato il caso in cui tale adempimento si rivela impossibile o comporta un impiego di mezzi manifestamente sproporzionato rispetto al diritto tutelato (art. 7, co. 3, lett. c) D.lgs. 196/2003);
-
-3\. Le richieste possono essere indirizzate al titolare del trattamento, senza formalità o, in alternativa, utilizzando il modello previsto dal Garante per la Protezione dei Dati Personali, o inviando una mail all'indirizzo: faroclaudio@gmail.com
-
-4\. Qualora il trattamento sia basato sull'art. 6, paragrafo 1, lett. a) – consenso espresso all'utilizzo – oppure sull'art. 9, paragrafo 2 lett. a) – consenso espresso all'utilizzo di dati genetici, biometrici, relativi alla salute, che rivelino convinzioni religiose, o filosofiche o appartenenza sindacale, che rivelino l'origine razziale o etnica, le opinioni politiche – l'utente ha il diritto di revocare il consenso in qualsiasi momento senza pregiudicare la liceità del trattamento basata sul consenso prestato prima della revoca.
-
-5\. Parimenti, in caso di violazione della normativa, l'utente ha il diritto di proporre reclamo presso il Garante per la Protezione dei Dati Personali, quale autorità preposta al controllo sul trattamento nello Stato Italiano.
-
-6\. Per una disamina più approfondita dei diritti che Le competono, si vedano gli artt. 15 e ss. del Regolamento UE 2016/679 e l'art. 7 del D.Lgs. 196/2003.
-
-**  
-VI. SICUREZZA DATI FORNITI**
-
-  
-1\. Il presente sito tratta i dati degli utenti in maniera lecita e corretta, adottando le opportune misure di sicurezza volte ad impedire accessi non autorizzati, divulgazione, modifica o distruzione non autorizzata dei dati. Il trattamento viene effettuato mediante strumenti informatici e/o telematici, con modalità organizzative e con logiche strettamente correlate alle finalità indicate.
-
-2\. Oltre al titolare, in alcuni casi, potrebbero avere accesso ai dati categorie di incaricati coinvolti nell'organizzazione del sito (personale amministrativo, commerciale, marketing, legali, amministratori di sistema) ovvero soggetti esterni (come fornitori di servizi tecnici terzi, corrieri postali, hosting provider, società informatiche, agenzie di comunicazione).
-
-**  
-  
-VII. MODIFICHE AL PRESENTE DOCUMENTO**
-
-  
-1\. Il presente documento, pubblicato all'indirizzo:
-
-[https://www.trecastagni1.it/privacy](https://www.trecastagni1.it/privacy)
-
-costituisce la privacy policy di questo sito.
-
-2\. Esso può essere soggetto a modifiche o aggiornamenti. Si invitano gli utenti a consultare periodicamente la presente pagina per essere sempre aggiornati sulle ultime novità legislative.
-
-3\. Le versioni precedenti del documento saranno comunque consultabili a questa pagina.
-
-4\. Il documento è stato aggiornato in data 15/10/2019 per essere conforme alle disposizioni normative in materia, ed in particolare in conformità al Regolamento UE 2016/679.
+3. Il documento è stato aggiornato il 21/10/2026 a seguito del rifacimento del sito e del cambio dei fornitori di servizi.
