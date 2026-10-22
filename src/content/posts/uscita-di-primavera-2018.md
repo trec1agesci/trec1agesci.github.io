@@ -6,7 +6,7 @@ categories:
   - "clan"
   - "news"
   - "reparto"
-coverImage: "/wp-content/uploads/2018/04/festa-primavera-1024x1024.png"
+coverImage: "/images/2018/04/festa-primavera-1024x1024.png"
 ---
 
 Uscita di primavera sabato 14-15 ci vediamo tutte le branche sabato 14 alle ore 15:30 in sede per organizzarsi e poi salire in direzione cassone. Dove svolgeremo l'attività con i soli ragazzi con occorrente per dormire e cena a sacco.

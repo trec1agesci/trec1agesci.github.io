@@ -1,20 +1,48 @@
 ---
 import Pagination from '../components/Pagination.astro';
 import PostList from '../components/PostList.astro';
-import { LOGO_PATH, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import {
+	CONTACT_EMAIL,
+	FACEBOOK_URL,
+	GOOGLE_LISTING_URL,
+	INSTAGRAM_URL,
+	LOGO_PATH,
+	SITE_DESCRIPTION,
+	SITE_TITLE,
+} from '../consts';
 import Layout from '../layouts/Layout.astro';
 import { getPosts, paginate } from '../lib/posts';
 
 const { items, page, totalPages } = paginate(await getPosts(), 1);
 
-const jsonLd = {
-	'@context': 'https://schema.org',
-	'@type': 'Organization',
-	name: SITE_TITLE,
-	description: SITE_DESCRIPTION,
-	url: new URL('/', Astro.site).href,
-	logo: new URL(LOGO_PATH, Astro.site).href,
-};
+const siteUrl = new URL('/', Astro.site).href;
+const jsonLd = [
+	{
+		'@context': 'https://schema.org',
+		'@type': 'Organization',
+		'@id': `${siteUrl}#organization`,
+		name: SITE_TITLE,
+		description: SITE_DESCRIPTION,
+		url: siteUrl,
+		logo: new URL(LOGO_PATH, Astro.site).href,
+		email: CONTACT_EMAIL,
+		contactPoint: {
+			'@type': 'ContactPoint',
+			contactType: 'informazioni',
+			email: CONTACT_EMAIL,
+			availableLanguage: 'it',
+		},
+		sameAs: [FACEBOOK_URL, INSTAGRAM_URL, GOOGLE_LISTING_URL],
+	},
+	{
+		'@context': 'https://schema.org',
+		'@type': 'WebSite',
+		name: SITE_TITLE,
+		url: siteUrl,
+		inLanguage: 'it',
+		publisher: { '@id': `${siteUrl}#organization` },
+	},
+];
 ---
 
 <Layout title={SITE_TITLE} jsonLd={jsonLd} plain>

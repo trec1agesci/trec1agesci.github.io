@@ -6,7 +6,7 @@ categories:
   - "clan"
   - "news"
   - "reparto"
-coverImage: "/wp-content/uploads/2016/10/373984_4758102116312_1490866587_n.jpg"
+coverImage: "/images/2016/10/373984_4758102116312_1490866587_n.jpg"
 ---
 
 Come ogni anno è arrivato il momento di ricominciare a crescere divertendoci.

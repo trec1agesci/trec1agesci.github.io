@@ -1,5 +1,6 @@
 ---
 title: "Uso di immagini"
+description: "Autorizzazione all’uso di immagini fotografiche e audiovisive per le finalità istituzionali di AGESCI."
 date: "2024-10-02T14:43:24.000Z"
 ---
 

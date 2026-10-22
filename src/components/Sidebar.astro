@@ -1,5 +1,5 @@
 ---
-import { SIDEBAR_LINKS, WAITLIST_BANNER_PATH } from '../consts';
+import { INSTAGRAM_HANDLE, INSTAGRAM_URL, SIDEBAR_LINKS, WAITLIST_BANNER_PATH } from '../consts';
 
 const path = Astro.url.pathname;
 const isActive = (href: string) => (href === '/' ? path === '/' : path.startsWith(href));
@@ -33,3 +33,9 @@ const isActive = (href: string) => (href === '/' ? path === '/' : path.startsWit
 		}
 	</ul>
 </nav>
+<div class="widget social-card">
+	<p class="social-title">Seguici su Instagram</p>
+	<a class="btn" href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer">
+		{INSTAGRAM_HANDLE}
+	</a>
+</div>

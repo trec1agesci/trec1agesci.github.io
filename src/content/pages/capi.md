@@ -1,5 +1,6 @@
 ---
 title: "Calendario"
+description: "Il calendario pubblico degli eventi e delle attività del Gruppo Scout AGESCI Trecastagni 1."
 date: "2016-10-12T16:27:46.000Z"
 ---
 

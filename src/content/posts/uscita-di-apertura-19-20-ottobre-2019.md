@@ -6,7 +6,7 @@ categories:
   - "clan"
   - "news"
   - "reparto"
-coverImage: "/wp-content/uploads/2017/09/Untitled-1.jpg"
+coverImage: "/images/2017/09/Untitled-1.jpg"
 ---
 
 Un nuovo anno è arrivato e siamo pronti per divertirci insieme ai nostri fratellini e sorelline, percorrere nuovi sentiri pieni di avventura e servire il prossimo portando la gioia che ci contradistingue.

@@ -1,5 +1,6 @@
 ---
 title: "Informativa sulla privacy"
+description: "Informativa AGESCI sul trattamento dei dati personali ai sensi dell’art. 13 del GDPR."
 date: "2024-10-02T14:43:24.000Z"
 ---
 

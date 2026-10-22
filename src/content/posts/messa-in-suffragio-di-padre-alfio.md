@@ -3,7 +3,7 @@ title: "Messa in suffragio di padre Alfio"
 date: "2024-12-02T16:48:31.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2025/09/logo_trec-03.png"
+coverImage: "/images/2025/09/logo_trec-03.png"
 ---
 
 Carissimi amici del nostro gruppo scout,

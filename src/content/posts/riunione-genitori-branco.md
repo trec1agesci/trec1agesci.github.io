@@ -4,7 +4,7 @@ date: "2017-10-19T14:22:25.000Z"
 categories:
   - "branco"
   - "news"
-coverImage: "/wp-content/uploads/2017/10/promessa.gif"
+coverImage: "/images/2017/10/promessa.gif"
 ---
 
 Carissimi genitori,

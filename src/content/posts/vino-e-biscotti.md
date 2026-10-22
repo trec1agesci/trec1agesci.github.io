@@ -3,7 +3,7 @@ title: "Acquista il nostro vin brulè Talia cchi bellu ca è"
 date: "2016-10-14T17:16:48.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2016/10/DSC_5733-001.jpg"
+coverImage: "/images/2016/10/DSC_5733-001.jpg"
 ---
 
 ## **45 motivi per assaggiare un buon vin brulé!**

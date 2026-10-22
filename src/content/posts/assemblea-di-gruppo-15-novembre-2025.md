@@ -3,7 +3,7 @@ title: "Assemblea di gruppo 15 Novembre 2025"
 date: "2025-10-16T07:35:54.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2017/01/cropped-TRECASTAGNI1_Colore-1.png"
+coverImage: "/images/2017/01/cropped-TRECASTAGNI1_Colore-1.png"
 ---
 
 Ai Soci del Gruppo

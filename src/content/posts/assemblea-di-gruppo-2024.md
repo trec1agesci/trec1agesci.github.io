@@ -3,7 +3,7 @@ title: "Assemblea di gruppo 2024"
 date: "2024-12-11T10:57:00.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2016/10/trec1.jpg"
+coverImage: "/images/2016/10/trec1.jpg"
 ---
 
 Con la presente si comunica che l’assemblea ordinaria dei soci del Gruppo AGESCI  

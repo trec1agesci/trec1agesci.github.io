@@ -6,7 +6,7 @@ categories:
   - "clan"
   - "news"
   - "reparto"
-coverImage: "/wp-content/uploads/2016/10/373984_4758102116312_1490866587_n.jpg"
+coverImage: "/images/2016/10/373984_4758102116312_1490866587_n.jpg"
 ---
 
 Carissimi genitori,
@@ -27,4 +27,4 @@ ESTOTE PARATI!
 
 _LA COMUNITA__’_ _CAPI_
 
-[SCARICA IL COMUNICATO](/wp-content/uploads/2020/09/comunicazione-genitori-2020-21.pdf)
+[SCARICA IL COMUNICATO](/images/2020/09/comunicazione-genitori-2020-21.pdf)

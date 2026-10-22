@@ -6,7 +6,7 @@ categories:
   - "clan"
   - "news"
   - "reparto"
-coverImage: "/wp-content/uploads/2021/05/unfioreXiBriganti.jpg"
+coverImage: "/images/2021/05/unfioreXiBriganti.jpg"
 ---
 
 "Cari capi,

@@ -17,7 +17,7 @@ const Content = page ? (await render(page)).Content : undefined;
 
 {
 	page && Content ? (
-		<Layout title={page.data.title}>
+		<Layout title={page.data.title} description={page.data.description}>
 			<h1>{page.data.title}</h1>
 			<div class="prose">
 				<Content />

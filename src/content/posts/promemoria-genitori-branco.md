@@ -3,7 +3,7 @@ title: "PROMEMORIA genitori Branco"
 date: "2017-10-22T16:56:16.000Z"
 categories:
   - "branco"
-coverImage: "/wp-content/uploads/2016/10/tests-icon.png"
+coverImage: "/images/2016/10/tests-icon.png"
 ---
 
 Carissmi genitori, vi ricordiamo che:

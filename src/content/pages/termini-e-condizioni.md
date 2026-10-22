@@ -1,5 +1,6 @@
 ---
 title: "Termini e Condizioni"
+description: "Dichiarazioni di consenso al trattamento dei dati personali collegate all’informativa AGESCI."
 date: "2024-10-02T14:43:24.000Z"
 ---
 

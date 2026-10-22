@@ -1,5 +1,6 @@
 ---
 title: "Media"
+description: "Video del Gruppo Scout AGESCI Trecastagni 1: chiusura di zona, campi, giubileo scout e altri momenti di vita del gruppo."
 date: "2016-10-12T16:45:41.000Z"
 ---
 

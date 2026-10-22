@@ -3,7 +3,7 @@ title: "1° anniversario Morte di Padre Alfio Torrisi"
 date: "2025-11-16T10:43:21.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2025/11/immagine_2025-11-16_114138395.png"
+coverImage: "/images/2025/11/immagine_2025-11-16_114138395.png"
 ---
 
 Buongiorno a tutti,
@@ -12,4 +12,4 @@ Giorno 1 dicembre ricorre il 1° anniversario della nascita al cielo del nostro 
 
 CIAO PATRI ETORRISI❤️
 
-![](/wp-content/uploads/2025/11/immagine_2025-11-16_114138395-732x1024.png)
+![](/images/2025/11/immagine_2025-11-16_114138395-732x1024.png)

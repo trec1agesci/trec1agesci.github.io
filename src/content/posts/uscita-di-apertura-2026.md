@@ -3,7 +3,7 @@ title: "Uscita di Apertura 2026"
 date: "2026-10-04T18:17:40.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2026/10/Senza-titolo-2.png"
+coverImage: "/images/2026/10/Senza-titolo-2.png"
 ---
 
 📌 SAVE THE DATE | Uscita di Apertura 2026

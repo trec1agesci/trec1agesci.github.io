@@ -18,7 +18,7 @@ interface Props {
 	image?: string;
 	type?: 'website' | 'article';
 	published?: Date;
-	jsonLd?: Record<string, unknown>;
+	jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 	noindex?: boolean;
 	plain?: boolean;
 }
@@ -58,8 +58,9 @@ const external = (l: NavLink) =>
 		<meta name="description" content={description} />
 		{hideFromSearch && <meta name="robots" content="noindex" />}
 		{!noindex && <link rel="canonical" href={canonical} />}
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
+		<link rel="icon" href="/favicon.ico" sizes="any" />
+		<link rel="icon" type="image/png" href="/favicon-192.png" sizes="192x192" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 		<link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href="/feed/" />
 		<Font cssVariable="--font-montserrat" preload />
 		<meta property="og:site_name" content={SITE_TITLE} />
@@ -289,6 +290,27 @@ const external = (l: NavLink) =>
 	.sidebar li a[aria-current='page'] {
 		background: var(--lavender);
 		border-radius: 4px;
+	}
+	.social-card {
+		text-align: center;
+	}
+	.social-title {
+		margin: 0 0 0.6rem;
+		font-weight: 600;
+		color: var(--ink);
+	}
+	.btn {
+		display: inline-block;
+		padding: 0.5rem 1.1rem;
+		border-radius: 4px;
+		background: var(--primary);
+		color: #fff;
+		font-weight: 600;
+		text-decoration: none;
+	}
+	.btn:hover {
+		background: var(--primary-hover);
+		color: #fff;
 	}
 	main.card {
 		background: #fff;

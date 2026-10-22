@@ -1,5 +1,6 @@
 ---
 title: "Privacy"
+description: "Privacy policy del sito di AGESCI Trecastagni 1: titolare, fornitori, cookie, dati trattati e diritti degli utenti."
 date: "2019-10-15T10:37:01.000Z"
 ---
 
@@ -35,7 +36,7 @@ Per il funzionamento del sito il titolare si avvale dei seguenti fornitori, che 
 
 - **GitHub, Inc. (Microsoft)** – hosting delle pagine tramite GitHub Pages e conservazione del codice e dei contenuti del sito. [Informativa](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 - **Cloudflare, Inc.** – DNS, protezione e rete di distribuzione del sito (proxy), regole di reindirizzamento e statistiche aggregate (Cloudflare Web Analytics). [Informativa](https://www.cloudflare.com/privacypolicy/).
-- **Google LLC** – Google Forms (modulo per la lista d'attesa), Google Calendar (calendario degli eventi), Google Drive (cartella dei documenti) e video YouTube incorporati. [Informativa](https://policies.google.com/privacy).
+- **Google LLC** – Google Forms (modulo per la lista d'attesa), Google Calendar (calendario degli eventi), Google Maps (mappa nella pagina Contatti), Google Drive (cartella dei documenti) e video YouTube incorporati. [Informativa](https://policies.google.com/privacy).
 - **Vimeo, Inc.** – video incorporati nella pagina Media. [Informativa](https://vimeo.com/privacy).
 
 Il codice e i contenuti del sito sono conservati in un repository pubblico su GitHub e non comprendono dati personali raccolti dagli utenti.
@@ -52,7 +53,7 @@ I fornitori sopra indicati hanno sede negli Stati Uniti. Il trasferimento dei da
 
 ### 2 - Contenuti di terze parti incorporati
 
-1. Alcune pagine incorporano contenuti ospitati da terzi: i video di YouTube (Google) e di Vimeo, nella pagina Media e in alcuni articoli, e il calendario di Google Calendar nella pagina Calendario.
+1. Alcune pagine incorporano contenuti ospitati da terzi: i video di YouTube (Google) e di Vimeo, nella pagina Media e in alcuni articoli, il calendario di Google Calendar nella pagina Calendario e la mappa di Google Maps nella pagina Contatti.
 
 2. Quando la pagina è caricata, il fornitore del contenuto può ricevere l'indirizzo IP dell'utente e informazioni sul dispositivo e impostare propri cookie, anche di profilazione, che il titolare non controlla. L'uso di questi cookie è regolato dalle informative dei fornitori indicate sopra.
 

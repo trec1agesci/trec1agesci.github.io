@@ -9,3 +9,4 @@
 /page-sitemap.xml           /sitemap-index.xml 301
 /category-sitemap.xml       /sitemap-index.xml 301
 /author-sitemap.xml         /sitemap-index.xml 301
+/wp-content/uploads/*       /images/:splat 301

@@ -1,5 +1,6 @@
 ---
 title: "Gruppo"
+description: "Chi siamo: il Gruppo Scout AGESCI Trecastagni 1, la comunità capi e le sue unità: branco, reparti, noviziato e clan."
 date: "2016-10-12T16:43:19.000Z"
 ---
 

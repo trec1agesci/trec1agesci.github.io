@@ -3,7 +3,7 @@ title: "USCITA DI APERTURA"
 date: "2016-10-06T14:53:08.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2016/10/trec1.jpg"
+coverImage: "/images/2016/10/trec1.jpg"
 ---
 
 Salve a tutti, vi scriviamo le informazioni per:

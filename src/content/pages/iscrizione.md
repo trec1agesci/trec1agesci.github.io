@@ -1,5 +1,6 @@
 ---
 title: "Iscrizione"
+description: "Come chiedere l’ingresso nel Gruppo Scout AGESCI Trecastagni 1: lista d’attesa, criteri di ingresso, impegno economico e di tempo."
 date: "2016-10-12T16:44:37.000Z"
 ---
 

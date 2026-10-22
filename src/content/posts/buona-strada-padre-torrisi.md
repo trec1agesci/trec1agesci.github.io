@@ -3,7 +3,7 @@ title: "Buona strada Padre Torrisi"
 date: "2024-12-01T16:52:10.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2024/12/518698150_10238474622430175_6417043794032265013_n.jpg"
+coverImage: "/images/2024/12/518698150_10238474622430175_6417043794032265013_n.jpg"
 ---
 
 Se quel giorno di 53 anni fa non avessi incontrato a Lourdes dei ragazzi dai calzoni corti,  

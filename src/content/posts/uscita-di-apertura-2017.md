@@ -3,7 +3,7 @@ title: "USCITA DI APERTURA 2017 [aggiornamento]"
 date: "2017-09-22T19:51:10.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2017/09/Untitled-1.jpg"
+coverImage: "/images/2017/09/Untitled-1.jpg"
 ---
 
 Salve a tutti, pronti ad iniziare un nuovo anno?

@@ -3,7 +3,7 @@ title: "Promozioni Scout-shop Marzo"
 date: "2017-03-29T10:24:23.000Z"
 categories:
   - "news"
-coverImage: "/wp-content/uploads/2016/10/logoScoutShop.png"
+coverImage: "/images/2016/10/logoScoutShop.png"
 ---
 
 [](http://fiordaliso.musvc5.net/e/r?q=Ku%3dBEKv_LltV_Wv_IWwk_Sl_LltV_V1005O8.s54C1JxCo99K.iI8_IWwk_Sl0_CrYt_M7xH7.2yJI_IWwk_Sl_LltV_W1Em7_CrYt_N5yRIP1_7w8k_LltV_WyH802X_xunq_98CK0b-O.6_xunq_98TRl0_CrYt_MW.7CU3i_LltV_VQO_xunq_98AG_xunq_8ZBQ-lXT.W_xunq_8Zx-oIph2g5v%264%3dEXLUC%268%3d8LyPxV.t9E%26K%3d-7YQRAaQR8Z)

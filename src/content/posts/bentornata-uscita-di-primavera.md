@@ -6,7 +6,7 @@ categories:
   - "clan"
   - "news"
   - "reparto"
-coverImage: "/wp-content/uploads/2025/09/logo_trec-03.png"
+coverImage: "/images/2025/09/logo_trec-03.png"
 ---
 
 Cari tutti, vi comunichiamo che l'uscita di primavera si effettuerà la domenica 7 aprile presso Casa ODAR a Milo (CT).
