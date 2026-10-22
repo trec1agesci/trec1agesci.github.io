@@ -1,19 +1,35 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { DISMISSED_PAGES } from '../dismissed.mjs';
 import Layout from '../layouts/Layout.astro';
 
 export async function getStaticPaths() {
 	const pages = await getCollection('pages');
-	return pages.map((page) => ({ params: { slug: page.id }, props: { page } }));
+	return [
+		...pages.map((page) => ({ params: { slug: page.id }, props: { page } })),
+		...DISMISSED_PAGES.map((slug) => ({ params: { slug }, props: { page: undefined } })),
+	];
 }
 
 const { page } = Astro.props;
-const { Content } = await render(page);
+const Content = page ? (await render(page)).Content : undefined;
 ---
 
-<Layout title={page.data.title}>
-	<h1>{page.data.title}</h1>
-	<div class="prose">
-		<Content />
-	</div>
-</Layout>
+{
+	page && Content ? (
+		<Layout title={page.data.title}>
+			<h1>{page.data.title}</h1>
+			<div class="prose">
+				<Content />
+			</div>
+		</Layout>
+	) : (
+		<Layout title="Pagina non più disponibile" noindex>
+			<h1>Pagina non più disponibile</h1>
+			<p>
+				Quest’area del sito non esiste più. Per chiedere l’iscrizione vai alla pagina{' '}
+				<a href="/iscrizione/">Iscrizione</a>.
+			</p>
+		</Layout>
+	)
+}

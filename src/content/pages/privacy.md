@@ -33,11 +33,12 @@ date: "2019-10-15T10:37:01.000Z"
 
 Per il funzionamento del sito il titolare si avvale dei seguenti fornitori, che possono trattare dati personali degli utenti per conto del titolare o come titolari autonomi, secondo le proprie informative:
 
-- **Cloudflare, Inc.** – hosting delle pagine, rete di distribuzione dei contenuti (CDN), DNS e statistiche aggregate (Cloudflare Web Analytics). [Informativa](https://www.cloudflare.com/privacypolicy/).
+- **GitHub, Inc. (Microsoft)** – hosting delle pagine tramite GitHub Pages e conservazione del codice e dei contenuti del sito. [Informativa](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+- **Cloudflare, Inc.** – DNS, protezione e rete di distribuzione del sito (proxy), regole di reindirizzamento e statistiche aggregate (Cloudflare Web Analytics). [Informativa](https://www.cloudflare.com/privacypolicy/).
 - **Google LLC** – Google Forms (modulo per la lista d'attesa), Google Calendar (calendario degli eventi), Google Drive (cartella dei documenti) e video YouTube incorporati. [Informativa](https://policies.google.com/privacy).
 - **Vimeo, Inc.** – video incorporati nella pagina Media. [Informativa](https://vimeo.com/privacy).
 
-Il codice e i contenuti del sito sono conservati in un repository su GitHub e non comprendono dati personali raccolti dagli utenti.
+Il codice e i contenuti del sito sono conservati in un repository pubblico su GitHub e non comprendono dati personali raccolti dagli utenti.
 
 I fornitori sopra indicati hanno sede negli Stati Uniti. Il trasferimento dei dati verso Paesi extra-UE avviene sulla base degli strumenti previsti dal GDPR adottati da ciascun fornitore (decisione di adeguatezza della Commissione europea, ove il fornitore aderisca al Data Privacy Framework, oppure clausole contrattuali standard), come descritto nelle rispettive informative.
 
@@ -71,7 +72,7 @@ Per ulteriori informazioni e supporto è possibile visitare la pagina di aiuto s
 
 1. Come tutti i siti web, anche questo è servito attraverso sistemi che registrano automaticamente alcune informazioni sulle visite: indirizzo IP, tipo di browser e parametri del dispositivo, data e orario di visita, pagina visitata e di provenienza.
 
-2. Queste informazioni sono trattate da Cloudflare, in qualità di fornitore del servizio di hosting, in forma automatizzata e solo per verificare il corretto funzionamento del sito e per motivi di sicurezza (per esempio, bloccare attività dannose). Il trattamento si basa sul legittimo interesse del titolare. Tali dati non sono utilizzati per identificare o profilare l'utente.
+2. Queste informazioni sono trattate da GitHub, in qualità di fornitore del servizio di hosting, e da Cloudflare, in qualità di fornitore dei servizi di DNS e protezione del sito, in forma automatizzata e solo per verificare il corretto funzionamento del sito e per motivi di sicurezza (per esempio, bloccare attività dannose). Il trattamento si basa sul legittimo interesse del titolare. Tali dati non sono utilizzati per identificare o profilare l'utente.
 
 ### 2 - Lista d'attesa (modulo Iscrizione)
 

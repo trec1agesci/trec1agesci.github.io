@@ -1,0 +1,61 @@
+# Pubblica il sito Astro su GitHub Pages.
+# - Ogni push su main: solo build di controllo (nessuna pubblicazione).
+# - Push di un tag vX.Y.Z (es. v2026.10.22): build + pubblicazione.
+# - Avvio manuale dalla scheda Actions: build + pubblicazione del ref scelto.
+# Prerequisiti:
+#   Settings > Pages > Source = "GitHub Actions"
+#   Settings > Environments > github-pages > Deployment branches and tags:
+#     aggiungere la regola per i tag "v*" (altrimenti il deploy da tag viene rifiutato)
+
+name: Build e deploy
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # SITE_ENV=test aggiunge <meta name="robots" content="noindex"> nel layout
+      # finché il sito vive su *.github.io; mettere "production" al passaggio sul dominio.
+      - run: npm run build
+        env:
+          SITE_ENV: ${{ vars.SITE_ENV || 'test' }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    # Pubblica solo da tag o da avvio manuale, mai da un semplice push su main
+    if: startsWith(github.ref, 'refs/tags/v') || github.event_name == 'workflow_dispatch'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
