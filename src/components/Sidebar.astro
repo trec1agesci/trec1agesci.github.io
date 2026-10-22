@@ -1,0 +1,35 @@
+---
+import { SIDEBAR_LINKS, WAITLIST_BANNER_PATH } from '../consts';
+
+const path = Astro.url.pathname;
+const isActive = (href: string) => (href === '/' ? path === '/' : path.startsWith(href));
+---
+
+<div class="widget banner">
+	<a href="/iscrizione/">
+		<img
+			src={WAITLIST_BANNER_PATH}
+			alt="Inserisci in lista d’attesa"
+			width="276"
+			height="70"
+		/>
+	</a>
+</div>
+<nav class="widget" aria-label="Menu laterale">
+	<ul>
+		{
+			SIDEBAR_LINKS.map((l) => (
+				<li>
+					<a
+						href={l.href}
+						aria-current={!l.external && isActive(l.href) ? 'page' : undefined}
+						target={l.external ? '_blank' : undefined}
+						rel={l.external ? 'noopener noreferrer' : undefined}
+					>
+						{l.label}
+					</a>
+				</li>
+			))
+		}
+	</ul>
+</nav>

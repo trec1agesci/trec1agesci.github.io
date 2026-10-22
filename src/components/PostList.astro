@@ -1,5 +1,6 @@
 ---
-import { formatDate, postUrl, type Post } from '../lib/posts';
+import { HEADER_LOGO_PATH } from '../consts';
+import { categoryOf, categoryUrl, excerpt, formatDate, postUrl, type Post } from '../lib/posts';
 
 interface Props {
 	posts: Post[];
@@ -11,14 +12,23 @@ const { posts } = Astro.props;
 {
 	posts.map((post) => (
 		<article class="post-card">
-			{post.data.coverImage && <img src={post.data.coverImage} alt="" loading="lazy" />}
-			<div>
+			<a class="thumb" href={postUrl(post)} tabindex="-1" aria-hidden="true">
+				<img src={post.data.coverImage ?? HEADER_LOGO_PATH} alt="" loading="lazy" />
+			</a>
+			<div class="body">
+				<p class="card-cats">
+					{post.data.categories.map((slug) => {
+						const c = categoryOf(slug);
+						return c && <a href={categoryUrl(c.path)}>{c.label}</a>;
+					})}
+				</p>
 				<h2>
 					<a href={postUrl(post)}>{post.data.title}</a>
 				</h2>
-				<p class="meta">
+				<p class="date">
 					<time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
 				</p>
+				<p class="excerpt">{excerpt(post, 220)}</p>
 			</div>
 		</article>
 	))

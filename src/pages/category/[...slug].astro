@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 const { category, items, page, totalPages } = Astro.props;
 ---
 
-<Layout title={page > 1 ? `${category.label} – pagina ${page}` : category.label}>
+<Layout title={page > 1 ? `${category.label} – pagina ${page}` : category.label} plain>
 	<h1>{category.label}</h1>
 	<PostList posts={items} />
 	<Pagination base={categoryUrl(category.path)} page={page} totalPages={totalPages} />

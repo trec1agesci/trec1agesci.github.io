@@ -15,7 +15,7 @@ L’ingresso nel nostro gruppo, formalizzato nella richiesta di iscrizione avvi
 
 Coloro che non saranno chiamati subito, potranno essere chiamati fino all’attività di Natale, qualora qualcuno dei nuovi non volesse più frequentare. Le eventuali richieste che non potremmo soddisfare resteranno in lista d’attesa per l’anno successivo.
 
-L’impegno economico per una famiglia consiste annualmente nella quota del censimento (attualmente 65 euro) e la quota per la partecipazione alle attività stabilita di volta in volta secondo le necessità.  
+L’impegno economico per una famiglia consiste annualmente nella quota del censimento (attualmente 70 euro) e la quota per la partecipazione alle attività stabilita di volta in volta secondo le necessità.  
 Nella fase iniziale non e’ opportuno comprare l’uniforme e l’equipaggiamento ma consigliamo di aspettare un paio di mesi (va bene prima dell’attività di Natale) per capire se il figlio ha intenzione di proseguire e pronunciare la Promessa: vale sempre il detto “lo scautismo e’ per tutti ma non tutti sono per lo scautismo”.
 
 L’impegno di tempo consiste in una riunione settimanale al branco e al reparto, generalmente il sabato pomeriggio; i ragazzi del reparto fanno anche una riunione settimanale di squadriglia; i capi squadriglia fanno delle riunioni con lo staff per gestire il reparto e la squadriglia; noviziato e clan fanno riunioni una volta a settimana.  
